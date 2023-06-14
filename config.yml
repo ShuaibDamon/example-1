@@ -72,7 +72,6 @@ params:
       description: The main servers are located here.
       closed: true
       untitled: true
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
   description: We continuously monitor the status of our services and if there are
