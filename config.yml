@@ -51,7 +51,7 @@ params:
     - name: Oldmutual.co.za
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
-      category: Uncategorized
+      category: Old Mutual Mobile App (Rewards)
     - name: Login
       category: Old Mutual Mobile App (Rewards)
   dateFormat: January 2, 2006 at 3:04 PM UTC
