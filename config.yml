@@ -72,10 +72,11 @@ params:
   categories:
     - name: Uncategorized
       untitled: false
+      closed: false
     - name: Old Mutual Mobile App (Rewards)
       description: The Rewards section of the Old Mutual Banking mobile app
-      closed: true
-      untitled: true
+      closed: false
+      untitled: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
