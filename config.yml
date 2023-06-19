@@ -70,12 +70,8 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-      untitled: true
     - name: Uncategorized
-      untitled: true
+      untitled: false
     - name: Old Mutual Mobile App (Rewards)
       description: The Rewards section of the Old Mutual Banking mobile app
       closed: true
