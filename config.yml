@@ -37,10 +37,6 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
     - name: My Old Mutual Mobile App
       description: The web frontend for the application.
       category: Uncategorized
@@ -51,9 +47,23 @@ params:
     - name: Oldmutual.co.za
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
-      category: Old Mutual Mobile App (Rewards)
+      category: Uncategorized
     - name: Login
       category: Old Mutual Mobile App (Rewards)
+    - name: View Dashboard
+      category: Old Mutual Mobile App (Rewards)
+    - name: Earn
+      category: Old Mutual Mobile App (Rewards)
+      description: View methods of earning Old Mutual Rewards points
+    - name: Spend
+      category: Old Mutual Mobile App (Rewards)
+      description: Selecting a method of spending Old Mutual Rewards points
+    - name: View Wallet
+      category: Old Mutual Mobile App (Rewards)
+      description: Viewing balance of Old Mutual Rewards points
+    - name: Travel
+      category: Old Mutual Mobile App (Rewards)
+      description: Booking flights or bus trips using Old Mutual Rewards points
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
