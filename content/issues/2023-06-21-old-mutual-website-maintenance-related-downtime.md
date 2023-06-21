@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2023-06-22T07:18:33.134Z
 affected:
-  - oldmutual.co.za-login
+  - login
 severity: disrupted
 ---
 *Investigating* - We are investigating a potential issue that might affect the uptime of our website. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
