@@ -64,7 +64,7 @@ params:
     - name: Travel
       category: Old Mutual Mobile App (Rewards)
       description: Booking flights or bus trips using Old Mutual Rewards points
-    - name: Login
+    - name: "Login  "
       category: oldmutual.co.za
     - category: oldmutual.co.za
       name: Submit claim
