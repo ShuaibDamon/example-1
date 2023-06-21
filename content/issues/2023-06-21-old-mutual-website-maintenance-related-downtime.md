@@ -2,7 +2,7 @@
 section: issue
 title: Old Mutual Website maintenance-related downtime
 date: 2023-06-21T07:18:33.129Z
-resolved: true
+resolved: false
 draft: false
 informational: true
 pin: false
