@@ -1,4 +1,4 @@
-title: Eggsample Status
+title: Status page example
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -64,6 +64,16 @@ params:
     - name: Travel
       category: Old Mutual Mobile App (Rewards)
       description: Booking flights or bus trips using Old Mutual Rewards points
+    - name: Login
+      category: oldmutual.co.za
+    - category: oldmutual.co.za
+      name: Submit claim
+      description: Submission of claims via the Old Mutual South Africa website
+    - name: Call me back
+      category: oldmutual.co.za
+      description: Request a call from a financial adviser
+    - name: Download documents
+      category: oldmutual.co.za
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -87,6 +97,9 @@ params:
       description: The Rewards section of the Old Mutual Banking mobile app
       closed: false
       untitled: false
+    - name: oldmutual.co.za
+      description: "The Old Mutual South African website "
+      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
