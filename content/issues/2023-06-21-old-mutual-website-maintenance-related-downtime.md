@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: true
 pin: false
-resolvedWhen: 2023-06-21T07:18:33.134Z
+resolvedWhen: 2023-06-22T07:18:33.134Z
 affected:
   - oldmutual.co.za
 severity: disrupted
